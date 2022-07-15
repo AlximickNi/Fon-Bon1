@@ -43,6 +43,7 @@ body{
     height: 5000px;
     font-family: monospace;
     background: url('../img/6_ASFDBz2R8.jpg') 0 0/cover no-repeat fixed;
+    overflow: scroll;
 }
 
 .block1{
